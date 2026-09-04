@@ -1,0 +1,6 @@
+{
+  "name": "Wayfinder",
+  "description": "Offline-capable OSM route planner with ALT pathfinding, Yen's K-shortest paths, and IndexedDB storage",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
